@@ -102,8 +102,9 @@ ___
 
 ## 📎 Files Included
 
-Full walkthrough of dashboard structure, visuals, and TestGenie demo - [Testing Metrics Dashboard.pptx](https://github.com/user-attachments/files/20898538/Testing.Metrics.Dashboard.pptx)
-Final Dataset - [Final_Enhanced_Testing_Matrix_v14 1.xlsx](https://github.com/user-attachments/files/20898799/Final_Enhanced_Testing_Matrix_v14.1.xlsx)
+- Full walkthrough of dashboard structure, visuals, and TestGenie demo - [Testing Metrics Dashboard.pptx](https://github.com/user-attachments/files/20898538/Testing.Metrics.Dashboard.pptx)
+
+- Final Dataset - [Final_Enhanced_Testing_Matrix_v14 1.xlsx](https://github.com/user-attachments/files/20898799/Final_Enhanced_Testing_Matrix_v14.1.xlsx)
 
 ___
 
