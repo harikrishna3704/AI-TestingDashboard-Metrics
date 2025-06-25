@@ -3,10 +3,6 @@ An interactive Power BI dashboard with built-in AI assistant (TestGenie) that de
 
 ___
 
-# 🧠 AI - powered Testing Metrics Dashboard
-
-___
-
 🧾 **Overview**  
 The **AI-Enabled Testing Metrics Dashboard** is a centralized analytics solution designed to transform how QA teams, project managers, and stakeholders visualize and interact with testing data. Built using **Power BI**, **SQL**, and **Excel**, this interactive dashboard provides **end-to-end traceability**, **defect analytics**, and **test execution summaries**. 
 
