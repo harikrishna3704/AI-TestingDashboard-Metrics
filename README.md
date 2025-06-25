@@ -61,7 +61,7 @@ ___
 
 <img width="1476" alt="image" src="https://github.com/user-attachments/assets/60ce65f0-fda5-4e30-bbf9-ef40d0835b04" />
 
-### 🐞 2. Defect Analytics
+### 🐞 2. Defect Dashboard
 - Track defect health by Severity, Age, Status
 - Key KPIs: Defect Leakage, Resolution Rate, Recurrence Rate, MTTD
 
